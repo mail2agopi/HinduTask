@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HinduTask</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnListName">Go to List View</string>
+    <string name="btnMapName">Go to Map View</string>
+    <string name="strAdrs">Address</string>
+    <string name="strDesc">Description</string>
+    <string name="strAmen">Amenities</string>
+    <string name="strDoc">Document Details</string>
+    <string name="strViewPrice">View Area &amp; Price Details</string>
+    
+
+</resources>
